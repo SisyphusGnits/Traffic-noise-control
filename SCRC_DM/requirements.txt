@@ -1,0 +1,5 @@
+django==3.2.10
+requests
+django-admin-tools
+django-after-response
+django-object-actions
